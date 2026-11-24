@@ -17,9 +17,7 @@
 
 When preparing for a clinic visit or asking an AI assistant about health discomfort, the hardest part is describing *where* and *how deep* the pain actually is — superficial muscle tension, a tight hamstring tendon running down to the popliteal fossa, a sprained ligament, bone tenderness, radiating sciatic nerve tingling, or deep visceral discomfort. Body Pain Locator runs 100% locally in your browser to turn vague sensations into precise anatomical descriptions in three steps: **Locate → Describe → Export**.
 
-<p align="center">
-  <img src="./assets/preview.jpg" alt="Body Pain Locator main interface preview" width="920">
-</p>
+https://github.com/user-attachments/assets/709fe3e1-3353-4f34-a970-65d26b7ecd9f
 
 ---
 
@@ -30,6 +28,10 @@ As we get older, my family, friends, and I run into random aches and pains more 
 ---
 
 ## Core Capabilities
+
+<p align="center">
+  <img src="./assets/preview.jpg" alt="Body Pain Locator main interface preview" width="920">
+</p>
 
 ### 1. Granular 9-Layer Anatomical Transparency
 Toggle visibility and adjust opacity independently across **Body Surface** (fully solid at 100%, translucent X-ray below), **Muscles**, **Tendons & Insertions**, **Ligaments & Joints**, **Skeleton**, **Nervous System**, **Cardiovascular**, **Visceral Organs & Sense Organs**, plus **WHO Standard Acupoints**.
