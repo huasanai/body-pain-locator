@@ -1,0 +1,25 @@
+# Dependencies & Build
+node_modules
+dist
+tsconfig.tsbuildinfo
+
+# 3D binary chunks (auto-synced via npm install / npm run sync-assets)
+public/anatomy-data/economy
+
+# Local planning docs & personal config (keep local only)
+PLAN.md
+SPEC.md
+*.local
+*.local.md
+**/*.local.md
+.env
+.env.*
+assets/profile.json
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
